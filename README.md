@@ -1,6 +1,6 @@
 
 ```
-Code samples is posted.
+Code samples were posted.
 ```
 
 
