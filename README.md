@@ -1,3 +1,9 @@
+
+```
+Code samples is posted.
+```
+
+
 ## Deep-Reinforcement Learning Multiple Access for Heterogeneous Wireless Networks (DLMA)
 See full version of our paper on [arXiv](https://arxiv.org/pdf/1712.00162.pdf) or our conference version in [IEEE ICC 2018](https://ieeexplore.ieee.org/abstract/document/8422168/).
 ### Abstract
@@ -11,6 +17,3 @@ The paper introduces carrier sensing and differnt packet lengths into DLMA. This
 ### Abstract
 This paper investigates a new class of carrier-sense multiple access (CSMA) protocols that employ deep reinforcement learning (DRL) techniques for heterogeneous wireless networking, referred to as carrier-sense deep-reinforcement learning multiple access (CS-DLMA). Existing CSMA protocols, such as the medium access control (MAC) of WiFi, are designed for a homogeneous network environment in which all nodes adopt the same protocol. Such protocols suffer from severe performance degradation in a heterogeneous environment where there are nodes adopting other MAC protocols. This paper shows that DRL techniques can be used to design efficient MAC protocols for heterogeneous networking. In particular, in a heterogeneous environment with nodes adopting different MAC protocols (e.g., CS-DLMA, TDMA, and ALOHA), a CS-DLMA node can learn to maximize the sum throughput of all nodes. Furthermore, compared with WiFi's CSMA, CS-DLMA can achieve both higher sum throughput and individual throughputs when coexisting with other MAC protocols. Last but not least, a salient feature of CS-DLMA is that it does not need to know the operating mechanisms of the co-existing MACs. Neither does it need to know the number of nodes using these other MACs.
 
-```
-Code samples will be posted soon ...
-```
