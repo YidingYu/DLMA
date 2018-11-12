@@ -6,4 +6,4 @@ DQN_brain.py: the DQN algorithm used by the agent.
 
 environment.py: the interaction between the agent and the TDMA node. 
 
-ave_throughput: plot the throughput. 
+ave_throughput.py: plot the throughput. 
